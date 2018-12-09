@@ -2,10 +2,9 @@ import React, {Component} from "react";
 import styled from "styled-components";
 import PolygonOne from '../Pictures/PolygonOne';
 import PolygonTwo from "../Pictures/PolygonTwo";
-import {SmIconOne, SmIconOnePoly} from "../Pictures/SmIconOne";
+import {SmIconOnePoly} from "../Pictures/SmIconOne";
 import SmIconTwo from "../Pictures/SmIconTwo";
 import SmIconThree from "../Pictures/SmIconThree";
-import test_picture from "../../pictures/code.png"
 import Prism from 'prismjs';
 import "../../layout/prism.css";
 

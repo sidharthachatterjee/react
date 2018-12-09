@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Link from "gatsby-link";
-import Logo from '../Pictures/Logo'
-import '/Users/sashabouloudnine/dev/react/lobstr.io/gatsby-starter-hello-world/src/layout/index.css'
+import Logo from '../Pictures/Logo';
+import '../../layout/index.css';
 
 class Header extends Component {
     render() {

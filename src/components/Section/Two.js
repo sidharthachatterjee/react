@@ -1,6 +1,6 @@
 import React, {Component} from "react";
 import styled from "styled-components";
-import '/Users/sashabouloudnine/dev/react/lobstr.io/gatsby-starter-hello-world/src/layout/index.css'
+import '../../layout/index.css';
 
 const SectionCentral = styled.section `
     padding-left: 20px;

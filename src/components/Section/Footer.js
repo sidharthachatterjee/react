@@ -1,7 +1,7 @@
 import React, {Component} from "react";
 import styled from "styled-components";
 import Link from "gatsby-link";
-import '/Users/sashabouloudnine/dev/react/lobstr.io/gatsby-starter-hello-world/src/layout/index.css';
+import '../../layout/index.css';
 
 const Footer = styled.footer `
     background: radial-gradient(ellipse farthest-side at 100% 100%, #fcfdfd 20%, #F4F7F9 50%, #c2d3de 110%);
