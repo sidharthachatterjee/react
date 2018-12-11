@@ -202,7 +202,7 @@ const DivInLi = styled.div `
     }
 `
 
-const SubtitleLi = styled.li `
+const SubtitleLi = styled.div `
     margin-bottom: 0.5em;
     font-weight: 600;
     font-size: 1.15rem;
